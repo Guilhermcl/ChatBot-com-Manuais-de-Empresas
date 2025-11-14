@@ -32,3 +32,7 @@ O sistema utiliza processamento de linguagem natural (NLP), embeddings vetoriais
 ## Interface
 <img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/17c68a4d-8483-44db-83e8-eaaa9349236d" />
 
+1. **Clone este repositório:**  
+   ```bash
+   git clone https://github.com/seu-usuario/ChatBot-com-Manuais-de-Empresas.git
+
